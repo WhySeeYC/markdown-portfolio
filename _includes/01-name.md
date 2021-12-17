@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# WhySeeYC
+## Wlecome to my public GitHub Pages
